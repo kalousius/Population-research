@@ -1,0 +1,12 @@
+/* src/components/MenuComponent.css */
+.menu-container {
+    display: flex;
+    justify-content: center;
+    background-color: #FF0000;
+    padding: 16px;
+  }
+  
+  .menu-item {
+    margin-right: 16px;
+  }
+  
