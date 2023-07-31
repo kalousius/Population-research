@@ -1,2 +1,2 @@
 # Population-research
-Population research is a field of study that focuses on understanding and analyzing various aspects of human populations. It involves the collection, analysis, and interpretation of data related to population dynamics, characteristics, distribution, and changes over time.
+Population research is a field of study that focuses on understanding and analyzing various aspects of human populations. It involves the collection, analysis, and interpretation of data related to population dynamics, characteristics, distribution, and changes over time. The primary goal of population research is to gain insights into the patterns, trends, and factors influencing population growth, decline, and composition.
